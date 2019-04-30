@@ -1,5 +1,5 @@
 # RB-TLC59116
-Rob's Breakouts TLC59116 Arduino Library
+Rob's Breakouts TLC59116 Raspberry Pi Library
 
 # Install Instructions
 Download and extract (or clone) this repository to your project directory. Simply import TLC59116.py into your project to begin using it.
